@@ -1,38 +1,41 @@
+
 <h1 align="center">Hi 👋, I'm Archit Gupta</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/e9b43ab1-1374-415f-844f-dd9ef410230d" style="filter: grayscale(100%);" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e9b43ab1-1374-415f-844f-dd9ef410230d" alt="Coding" width="400" style="filter: grayscale(100%); border-radius: 10px;" />
+</div>
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+---
+
+<p align="center">
+  🌱 I’m currently learning <strong>DSA in Java</strong><br>
+  💬 Ask me about <strong>Java, Python, and Software Development</strong><br>
+  📫 How to reach me: <a href="mailto:guptaarchit12345@gmail.com"><strong>guptaarchit12345@gmail.com</strong></a>
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/archit-gupta-734463301" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/https://www.codechef.com/dashboard" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/https://leetcode.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **DSA in Java**
+---
 
-- 💬 Ask me about **Java, Python, and software development**
-
-- 📫 How to reach me **guptaarchit12345@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href= https://www.linkedin.com/in/archit-gupta-734463301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/https://www.codechef.com/dashboard" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">🛠️ Languages and Tools</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -47,14 +50,15 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=architgupta2004&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+---
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=architgupta2004&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=architgupta2004&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-bottom: 10px;" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=architgupta2004&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom: 10px;" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=architgupta2004" alt="GitHub Streak" />
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=architgupta2004&" alt="GitHub Streak" />
-</p>
+
