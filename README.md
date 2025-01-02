@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  🌱 I’m currently learning <strong>DSA in Java</strong><br>
+  🌱 I’m currently learning <strong>Full Stack</strong><br>
   💬 Ask me about <strong>Java, Python, and Software Development</strong><br>
   📫 How to reach me: <a href="mailto:guptaarchit12345@gmail.com"><strong>guptaarchit12345@gmail.com</strong></a>
 </p>
